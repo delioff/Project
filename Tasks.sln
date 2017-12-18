@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulator", "ConsoleApp1\ArrayManipulator.csproj", "{FCE44DB8-90A8-427F-BF1B-486CC305C49B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryTask1", "DictionaryTask1\DictionaryTask1.csproj", "{D8438DCA-132F-4F6C-95FA-263478A0AC07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryTask2", "DictionaryTask2\DictionaryTask2.csproj", "{6160A905-4704-47A7-899A-13711E75840D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FCE44DB8-90A8-427F-BF1B-486CC305C49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCE44DB8-90A8-427F-BF1B-486CC305C49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCE44DB8-90A8-427F-BF1B-486CC305C49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8438DCA-132F-4F6C-95FA-263478A0AC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8438DCA-132F-4F6C-95FA-263478A0AC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8438DCA-132F-4F6C-95FA-263478A0AC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8438DCA-132F-4F6C-95FA-263478A0AC07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6160A905-4704-47A7-899A-13711E75840D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6160A905-4704-47A7-899A-13711E75840D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6160A905-4704-47A7-899A-13711E75840D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6160A905-4704-47A7-899A-13711E75840D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
