@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPhonebook", "Dict
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPhoneBookExtended", "DictionaryPhoneBookExtended\DictionaryPhoneBookExtended.csproj", "{8B939E5A-4FF8-4395-87F8-616A4197D6EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryMinerTask", "DictionaryMinerTask\DictionaryMinerTask.csproj", "{3ABFB6CA-8023-40FD-B666-D8940AF1FE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryEmailFixer", "DictionaryEmailFixer\DictionaryEmailFixer.csproj", "{C2039551-B435-4FE2-AC47-D5066EF0C2A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryJoker", "DictionaryJoker\DictionaryJoker.csproj", "{BEFD7807-CD12-404D-93AB-AEC0A7608D4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +45,18 @@ Global
 		{8B939E5A-4FF8-4395-87F8-616A4197D6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B939E5A-4FF8-4395-87F8-616A4197D6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B939E5A-4FF8-4395-87F8-616A4197D6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ABFB6CA-8023-40FD-B666-D8940AF1FE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABFB6CA-8023-40FD-B666-D8940AF1FE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABFB6CA-8023-40FD-B666-D8940AF1FE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABFB6CA-8023-40FD-B666-D8940AF1FE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2039551-B435-4FE2-AC47-D5066EF0C2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2039551-B435-4FE2-AC47-D5066EF0C2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2039551-B435-4FE2-AC47-D5066EF0C2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2039551-B435-4FE2-AC47-D5066EF0C2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFD7807-CD12-404D-93AB-AEC0A7608D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFD7807-CD12-404D-93AB-AEC0A7608D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFD7807-CD12-404D-93AB-AEC0A7608D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFD7807-CD12-404D-93AB-AEC0A7608D4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
